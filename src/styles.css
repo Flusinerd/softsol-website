@@ -1,0 +1,14 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat+Alternates:wght@400;500;600&family=Montserrat:wght@300;400;500;600;700&display=swap");
+
+.font-alternate {
+  font-family: "Montserrat Alternates", sans-serif;
+}
+
+.color-primary {
+  color: #34b2b5;
+}
+
+.absolute-middle {
+  left: 50%;
+  transform: translateX(-50%);
+}
